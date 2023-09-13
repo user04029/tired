@@ -2,7 +2,7 @@ document.getElementById("continuebutton").addEventListener("click", function() {
     document.getElementById("continuebutton").style.display = "none";
     document.getElementById("restofsite").style.display = "block";
     const site = document.getElementById("site");
-    site.style.backgroundImage = "url('https://cdn.discordapp.com/attachments/1143643480795664467/1151604714090283028/b0428dfa06364283df7f951e73411cf5.jpg')";
+    site.style.backgroundImage = "url('https://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jpg')";
 
     const files = [
         "./songs/1.mp3",
